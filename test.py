@@ -1,2 +1,4 @@
-print("Feeling very happy to create first repository")
-print("feeling very happy")
+n=int(input("Enter the number:"))
+for i in range(1,n+1):
+    res=i*i
+    print(res)
